@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash (Avi)</h1>
+<h1 align="center">Hi 👋, I'm Avinash Lokhande</h1>
 <h3 align="center">AI & Data Science Enthusiast | ML • Python • SQL • Deep Learning</h3>
 
 ---
@@ -8,7 +8,7 @@
 - 🛠 I work on **Machine Learning, Data Analysis, and AI-based projects**  
 - 📊 Skilled in **Python, SQL, Pandas, Scikit-Learn, ML Algorithms, Deep Learning**  
 - 💡 Passionate about building real-world data-driven solutions  
-- 📫 Reach me at **your-email-here**
+- 📫 Reach me at **avilokhande50@gmail.com**
 
 ---
 
