@@ -1,48 +1,83 @@
-<h1 align="center">Hi 👋, I'm Avinash Lokhande</h1>
-<h3 align="center">AI & Data Science Enthusiast | ML • Python • SQL • Deep Learning</h3>
+<h1 align="center">Hi 👋, I'm Avinash (Avi) Lokhande</h1>
+<h3 align="center">Data Science & Machine Learning Enthusiast | Python • SQL • ML • EDA</h3>
 
 ---
 
-### 🚀 About Me  
-- 🎓 B.Tech in **Artificial Intelligence & Data Science**  
-- 🛠 I work on **Machine Learning, Data Analysis, and AI-based projects**  
-- 📊 Skilled in **Python, SQL, Pandas, Scikit-Learn, ML Algorithms, Deep Learning**  
-- 💡 Passionate about building real-world data-driven solutions  
-- 📫 Reach me at **avilokhande50@gmail.com**
+## 🚀 About Me
+I’m a detail-oriented and motivated **Data Science graduate** with experience in  
+**machine learning, predictive modeling, EDA, and model deployment**.  
+I enjoy converting raw data into meaningful insights and building ML solutions  
+that solve real-world problems.
+
+- 🎓 **B.Tech in Artificial Intelligence & Data Science**  
+- 💼 **Data Science Intern @ Seven Mentor Pvt. Ltd., Pune**  
+- 🔍 Built end-to-end ML models, EDA workflows & Flask-based deployment  
+- 📊 Strong in **Python, SQL, Pandas, Scikit-Learn, TensorFlow, Power BI**  
+- 🤝 Open to opportunities in **Data Science, ML Engineering, and Analytics**
+
+📫 **Email:** avilokhande50@gmail.com  
+📍 **Pune, Maharashtra**
 
 ---
 
-### 🔧 Tech Stack  
-**Languages:** Python, SQL  
-**ML Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-**Deep Learning:** TensorFlow, Keras  
-**Database:** MySQL  
-**Version Control:** Git & GitHub  
-**Other:** Jupyter Notebook, VS Code
+## 🛠️ Technical Skills
+
+### **Languages**
+Python, SQL, DAX
+
+### **Machine Learning & Deep Learning**
+Scikit-learn, TensorFlow, NLP, Classification, Regression, Clustering
+
+### **Data Analysis**
+Pandas, NumPy, Excel, Data Wrangling, Feature Engineering, EDA
+
+### **Visualization**
+Matplotlib, Seaborn, Power BI
+
+### **Databases**
+MySQL
+
+### **Tools**
+Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
-### 📌 Featured Projects  
-Here are some of my best work:
+## 📌 Featured Projects
 
-- 🔥 **Heart Attack Risk Predictor (AutoML using EvalML)**  
-  ML model to predict heart attack risk with automated feature engineering & model selection.  
-  👉 *GitHub link*
+### 🔹 **College Placement Prediction System**
+- Logistic Regression model for placement prediction  
+- Full ML pipeline: preprocessing → model → evaluation  
+- Deployment using Flask  
 
-- 🎓 **Student Exam Performance Indicator**  
-  End-to-end ML project to predict student performance.  
-  👉 *GitHub link*
+### 🔹 **Student Exam Performance Indicator**
+- Predicts student exam scores using ML  
+- Feature engineering, preprocessing, and visual analysis  
+- Compared Linear Regression, Random Forest, XGBoost  
 
-- 📉 **Analysis of Ride Booking Dataset**  
-  Exploratory data analysis & insights.  
-  👉 *GitHub link*
+### 🔹 **Heart Attack Risk Predictor (AutoML using EvalML)**
+- Automated model selection & feature engineering  
+- Produced explainable metrics (AUC, F1)  
+- Feature importance interpretation  
+
+### 🔹 **Analysis of Ride Booking Dataset**
+- EDA to analyze route patterns, demand peaks & pricing  
+- Cleaned raw data and built visual insights  
 
 ---
 
-### 📫 Connect with Me  
-- 💼 LinkedIn: **https://www.linkedin.com/in/avinash-lokhande-a6b73b262/**  
-- 🐙 GitHub: **https://github.com/Avi0302**
+## 🎓 Certifications
+- Google IT Support (Coursera)  
+- Data Analysis (Microsoft & LinkedIn Learning)  
+- Python for Data Science (LinkedIn)  
+- R & Python Certification (LeadSoft IT Solutions)
 
 ---
 
-⭐ **"I love creating models that solve real-world problems."**  
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/avinash-lokhande-a6b73b262](https://www.linkedin.com/in/avinash-lokhande-a6b73b262/)  
+- 🐙 **GitHub:** [github.com/Avi0302](https://github.com/Avi0302)
+
+---
+
+⭐ *“I enjoy solving data problems that create real impact.”*  
