@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avinash (Avi) Lokhande</h1>
+<h1 align="center">Hi 👋, I'm /nAvinash Lokhande</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | Python • SQL • ML • EDA</h3>
 
 ---
