@@ -42,28 +42,7 @@ Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
-## 📌 Featured Projects
 
-### 🔹 **College Placement Prediction System**
-- Logistic Regression model for placement prediction  
-- Full ML pipeline: preprocessing → model → evaluation  
-- Deployment using Flask  
-
-### 🔹 **Student Exam Performance Indicator**
-- Predicts student exam scores using ML  
-- Feature engineering, preprocessing, and visual analysis  
-- Compared Linear Regression, Random Forest, XGBoost  
-
-### 🔹 **Heart Attack Risk Predictor (AutoML using EvalML)**
-- Automated model selection & feature engineering  
-- Produced explainable metrics (AUC, F1)  
-- Feature importance interpretation  
-
-### 🔹 **Analysis of Ride Booking Dataset**
-- EDA to analyze route patterns, demand peaks & pricing  
-- Cleaned raw data and built visual insights  
-
----
 
 ## 🎓 Certifications
 - Google IT Support (Coursera)  
